@@ -15,7 +15,12 @@ Welcome to the fascinating world of transforming ordinary photos into stunning M
 
 ## Tech Stack
 
+- **Deep Learning**: Utilizing deep neural networks for advanced image transformation.
+- **CycleGAN**: Implementing CycleGAN architecture for domain transfer tasks.
 - **Python**: The primary language for development and scripting.
+- **PyTorch**: Framework for building deep learning models.
+- **Jupyter Notebooks**: Interactive development environment for experimentation and visualization.
+- **GitHub**: Version control and collaboration platform for project management.
 
 ## Unveiling the Transformation Process
 
