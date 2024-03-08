@@ -1,7 +1,7 @@
 # Transform Photos to Monet Paintings with CycleGANs
 
 <p align="center">
-  <img src="https://miro.medium.com/max/700/1*P8sYyATRZBQhmxljV-mkKQ.jpeg">
+  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/08/CycleGAN_W0Tmcrc.png">
 </p>
 
 ## Welcome to the Photo to Monet Painting Transformation Project!
